@@ -40,10 +40,11 @@ CPU  ████████░░ 82%    Memory  ██████░░░�
 
 | Repo | Description | Stars |
 |------|-------------|-------|
-| [🏗️ infrapilot](https://github.com/aria-tjr/infrapilot) | Enterprise monitoring & management system | ⭐ |
-| [🌿 GreenOps-Agent](https://github.com/aria-tjr/GreenOps-Agent) | K8s energy optimization with ML (LSTM) | ⭐⭐ |
-| [🚗 mobility_app_mvp](https://github.com/aria-tjr/mobility_app_mvp) | Full-stack vehicle sharing platform (€2.5M grant) | ⭐⭐ |
-| [📈 forex-auto-trader](https://github.com/aria-tjr/forex-auto-trader) | MT5 auto-trading with anti-overfitting | ⭐⭐ |
+| [🧠 nexus-ml-signal-engine](https://github.com/aria-tjr/nexus-ml-signal-engine) | 7-layer crypto signal engine (regime, trend, momentum, order flow, structure, session) + RF/BiLSTM consensus, with an honest walk-forward backtest | ![stars](https://img.shields.io/github/stars/aria-tjr/nexus-ml-signal-engine?style=flat) |
+| [🏗️ infrapilot](https://github.com/aria-tjr/infrapilot) | Infrastructure monitoring: agent-based metrics, FastAPI API, alert rules, web dashboard, Docker | ![stars](https://img.shields.io/github/stars/aria-tjr/infrapilot?style=flat) |
+| [🌿 GreenOps-Agent](https://github.com/aria-tjr/GreenOps-Agent) | Kubernetes energy optimization with ML (LSTM) forecasting | ![stars](https://img.shields.io/github/stars/aria-tjr/GreenOps-Agent?style=flat) |
+| [🚗 mobility_app_mvp](https://github.com/aria-tjr/mobility_app_mvp) | Full-stack vehicle sharing platform (€2.5M grant) | ![stars](https://img.shields.io/github/stars/aria-tjr/mobility_app_mvp?style=flat) |
+| [📈 forex-auto-trader](https://github.com/aria-tjr/forex-auto-trader) | MT5 auto-trading with anti-overfitting | ![stars](https://img.shields.io/github/stars/aria-tjr/forex-auto-trader?style=flat) |
 
 ---
 
