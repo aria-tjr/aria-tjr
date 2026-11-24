@@ -48,7 +48,7 @@ CPU  ████████░░ 82%    Memory  ██████░░░�
 
 ---
 
-### 📮 Contact
+### 📫 Contact
 
 - **Location:** Heilbronn, Germany
 - **Email:** arya.tajeri@yahoo.com
